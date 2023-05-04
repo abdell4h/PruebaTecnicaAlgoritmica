@@ -3,7 +3,7 @@
 Bienvenidos a mi repositorio de GitHub. En esta ocasión, les presento tres ejercicios de algorítmica en Java. Estos ejercicios están diseñados para ayudar a los desarrolladores a mejorar sus habilidades de programación y comprensión de algoritmos básicos en Java. Cada ejercicio incluye un enunciado, una solución propuesta y una explicación detallada del algoritmo utilizado. Espero que esta colección de ejercicios les sea útil y les ayude a mejorar su comprensión de la algorítmica en Java. ¡Gracias por visitar mi repositorio!
 
 
-# E codigo de la solución esta en JAVA
+# El codigo de la solución esta en JAVA
 
 1. Escriba un algoritmo que lea un número entero y determine si es par o impar. Si es par, que escriba todos los pares de manera descendiente desde sí mismo y hasta el cero. Si es impar, que escriba todos los impares de manera descendiente desde si sí mismo hasta el uno. Utilice la instrucción LEER NUMERO al inicio del programa para cargar un número en la variable NUMERO.
 
